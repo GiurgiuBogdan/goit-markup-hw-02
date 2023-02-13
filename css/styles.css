@@ -19,10 +19,11 @@ content: "Studio";
 color: #212121;}
 
 .header-navigation {
+}
+
+.navigation-list {
 list-style: none;
 text-decoration: none;
-}
-.navigation-list {
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -30,8 +31,7 @@ font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;
-list-style: none;
-text-decoration: none;
+
 }
 .right-navigation-list {
 font-family: 'Roboto';
@@ -44,6 +44,7 @@ color: #757575;
 list-style: none;
 text-decoration: none;
 }
+
 .link {
     list-style: none;
     text-decoration: none;
