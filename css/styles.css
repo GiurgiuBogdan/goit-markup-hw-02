@@ -1,5 +1,3 @@
-.page-header {
-}
 .company-logo {
 font-family: 'Raleway';
 font-style: normal;
@@ -11,15 +9,13 @@ letter-spacing: 0.03em;
 color: #2196F3;
 text-decoration: none;
 }
+
 .company-logo::after { 
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
 content: "Studio";
 color: #212121;}
-
-.header-navigation {
-}
 
 .navigation-list {
 list-style: none;
@@ -118,18 +114,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
 }
-.page-header {
-}
-.company-logo {
-}
-.header-navigation {
-}
-.navigation-list {
-}
-.right-navigation-list {
-}
-.link {
-}
+
 .portfolio-button {
 font-family: 'Roboto';
 font-style: normal;
