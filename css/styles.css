@@ -42,10 +42,11 @@ text-decoration: none;
 }
 
 .link {
-    list-style: none;
-    text-decoration: none;
-    color: #212121;
+list-style: none;
+text-decoration: none;
+color: #212121;
 }
+
 .title {
 font-family: 'Roboto';
 font-style: normal;
@@ -59,6 +60,7 @@ text-transform: uppercase;
 color: #FFFFFF;
 background-color: black;
 }
+
 .request-our-service-button {
 font-family: 'Roboto';
 font-style: normal;
@@ -73,6 +75,7 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 background-color: black;
 }
+
 .sub-title-section {
 font-family: 'Roboto';
 font-style: normal;
@@ -83,6 +86,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;
 }
+
 .text-section {
 font-family: 'Roboto';
 font-style: normal;
@@ -93,6 +97,7 @@ line-height: 24px;
 letter-spacing: 0.03em;
 color: #757575;
 }
+
 .title-section {
 font-family: 'Roboto';
 font-style: normal;
@@ -103,6 +108,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
 }
+
 .team-member-name {
 font-family: 'Roboto';
 font-style: normal;
@@ -127,6 +133,7 @@ letter-spacing: 0.03em;
 color: #212121;
 list-style: none;
 }
+
 .product {
 font-family: 'Roboto';
 font-style: normal;
@@ -137,6 +144,7 @@ line-height: 36px;
 letter-spacing: 0.06em;
 color: #212121;
 }
+
 .company-strong-points{
    list-style: none; 
 }
