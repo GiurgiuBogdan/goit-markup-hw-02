@@ -69,6 +69,14 @@
   color: #212121;
 }
 
+.link:hover {
+    color: #2196f3;
+  }
+
+.first-section {
+  background: #2f303a;
+}
+
 .title {
   font-family: "Roboto";
   font-style: normal;
@@ -80,26 +88,14 @@
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: #ffffff;
-  background-color: black;
 }
 
 .request-our-service-button {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
-  line-height: 30px;
-  /* identical to box height, or 188% */
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.06em;
   color: #ffffff;
-  background-color: black;
-}
-
-.request-our-service-button:hover {
-  color: #2196f3;
+  background-color: #2196f3;
 }
 
 .sub-title-section {
@@ -160,6 +156,15 @@
   list-style: none;
 }
 
+.link-portfolio:hover {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+  background: #2196f3;
+}
+
 .product {
   font-family: "Roboto";
   font-style: normal;
@@ -203,9 +208,6 @@
   line-height: 16px;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
-}
-.link:hover {
-  color: #2196f3;
 }
 
 .footer {
