@@ -16,6 +16,28 @@
   font-weight: 700;
   content: "Studio";
   color: #212121;
+  text-decoration: none;
+}
+
+.company-logo-footer {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.company-logo-footer::after {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  content: "Studio";
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .navigation-list {
@@ -74,6 +96,10 @@
   letter-spacing: 0.06em;
   color: #ffffff;
   background-color: black;
+}
+
+.request-our-service-button:hover {
+  color: #2196f3;
 }
 
 .sub-title-section {
@@ -168,7 +194,6 @@
   line-height: 16px;
   letter-spacing: 0.03em;
   color: #ffffff;
-  background-color: black;
 }
 .text-section-contact {
   font-family: "Roboto";
@@ -178,8 +203,11 @@
   line-height: 16px;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
-  background-color: black;
 }
 .link:hover {
   color: #2196f3;
+}
+
+.footer {
+  background: #2f303a;
 }
