@@ -70,8 +70,8 @@
 }
 
 .link:hover {
-    color: #2196f3;
-  }
+  color: #2196f3;
+}
 
 .first-section {
   background: #2f303a;
@@ -144,6 +144,10 @@
 }
 
 .portfolio-button {
+  list-style: none;
+}
+
+.link-portfolio {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -153,16 +157,21 @@
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
-  list-style: none;
+  background: #f5f4fa;
+  border-radius: 4px;
 }
 
 .link-portfolio:hover {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
   text-align: center;
+  letter-spacing: 0.03em;
   color: #ffffff;
   background: #2196f3;
+  border-radius: 4px;
 }
 
 .product {
